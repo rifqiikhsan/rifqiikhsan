@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rifqiikhsan" alt="rifqiikhsan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at <a href ="rifqiikhsan.github.io">My Portofolio</a>
+- 👨‍💻 All of my projects are available at <a href ="https://rifqiikhsan.github.io">My Portofolio</a>
 
 - 📫 How to reach me **rifqiikhsan45@gmail.com**
 
